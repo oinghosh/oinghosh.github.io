@@ -3,8 +3,8 @@ papers:
   # ADVERSARIAL ML
   - title: "Modeling Time Scale of Integration in Equilibrium Passive Sampling"
     authors: "<u>Oindrila Ghosh</u>, Songjing Yan, Mandar Bokare, Upal Ghosh "
-    #paper: "Link"
-    venue: "(Accepted  for publication in Environmental Toxicology and Chemistry Journal)"
+    paper: "https://doi.org/10.1093/etojnl/vgae003"
+    venue: "Environmental Toxicology and Chemistry, 2025;, vgae003"
     #advml: y
     #mod: y
     #modifier: "Oral"
