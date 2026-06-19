@@ -63,11 +63,11 @@ papers:
 
   # ARTICLES
 
-  - title: "PFAS in our Food: From Farms and Fields to Streams and Shores"
-    authors: "Oindrila Ghosh (University of Pittsburgh); Jonathan Petali (Battelle); Erin L. Pulster (U.S. Geological Survey); and Christopher J. McCarthy (Jacobs)."
-    paper: "https://www.setac.org/resource/pfas-in-our-food-from-farms-and-fields-to-streams-and-shores.html"
-    venue: "SETAC Globe. 26 Feb 2026."
-    Articles: y
+  # - title: "PFAS in our Food: From Farms and Fields to Streams and Shores"
+  #   authors: "Oindrila Ghosh (University of Pittsburgh); Jonathan Petali (Battelle); Erin L. Pulster (U.S. Geological Survey); and Christopher J. McCarthy (Jacobs)."
+  #   paper: "https://www.setac.org/resource/pfas-in-our-food-from-farms-and-fields-to-streams-and-shores.html"
+  #   venue: "SETAC Globe. 26 Feb 2026."
+  #   Articles: y
 
   - title: "Optimization of Passive Sampling for surface-water and sediment porewater measurements"
     authors: "Oindrila Ghosh"
@@ -87,13 +87,13 @@ papers:
     venue: "CPRC SETAC Newsletter, Spring 2021."
     Articles: y
 
-    # ART EXHIBITIONS
+  #   # ART EXHIBITIONS
 
-  - title: "From Crisis to Collaboration "
-    authors: "Oindrila Ghosh (University of Pittsburgh)"
-    paper: "https://sites.google.com/view/poster-exhibit/art-science-setac-2025"
-    venue: "Novel Bodies, Ecoartspace, 2025"
-    Articles: y
+  # - title: "From Crisis to Collaboration "
+  #   authors: "Oindrila Ghosh (University of Pittsburgh)"
+  #   paper: "https://sites.google.com/view/poster-exhibit/art-science-setac-2025"
+  #   venue: "Novel Bodies, Ecoartspace, 2025"
+  #   Articles: y
 
   
  
