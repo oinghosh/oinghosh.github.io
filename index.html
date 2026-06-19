@@ -55,7 +55,6 @@ title: Homepage of Oindrila Ghosh
     <li><div class="button active" data-ref="#papers-JP">Journal Papers</div></li>
     <li><div class="button inactive" data-ref="#papers-Reports">Reports</div></li>
     <li><div class="button inactive" data-ref="#papers-Articles">Articles</div></li>
-    <li><div class="button inactive" data-ref="#papers-Art Exhibitions">Art Exhibitions</div></li>
   </ul>
 
   <div class="tab-content">
@@ -139,44 +138,6 @@ title: Homepage of Oindrila Ghosh
     </div>    
 <!-- Articles -->
 <div class="tab-pane inactive" id="papers-Articles">
-  {% assign Articles_papers = site.data.publications.papers | where: "Articles", "y" %}
-  {% for paper in Articles_papers %}
-    <div class="paper">
-      <p class="title"><b>{{ paper.title }}</b>
-        {% if paper.paper %}
-          <a class="button" href="{{ paper.paper }}" target="_blank">Article</a>
-        {% endif %}
-        {% if paper.webpage %}
-          <a class="button" href="{{ paper.webpage }}" target="_blank">Webpage</a>
-        {% endif %}
-        {% if paper.slides %}
-          <a class="button" href="{{ paper.slides }}" target="_blank">Slides</a>
-        {% endif %}
-        {% if paper.poster %}
-          <a class="button" href="{{ paper.poster }}" target="_blank">Poster</a>
-        {% endif %}
-        {% if paper.video %}
-          <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-        {% endif %}
-        {% if paper.code %}
-          <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-        {% endif %}
-      </p>
-      <p>{{ paper.authors }}</p>
-      <p><i>{{ paper.venue }}</i>
-        {% if paper.mod%}
-        <span style="color:red;"><b>({{ paper.modifier }})</b></span>
-      {% endif %} </p>
-      {% if paper.equal%}
-        <p><i>*equal contribution</i></p>
-      {% endif %}
-       <div class="paper-buttons">
-      </div>
-    </div>
-  {% endfor %}
-</div>    
-<!-- Art Exhibitions -->
-<div class="tab-pane inactive" id="papers-Art Exhibitions">
   {% assign Articles_papers = site.data.publications.papers | where: "Articles", "y" %}
   {% for paper in Articles_papers %}
     <div class="paper">
