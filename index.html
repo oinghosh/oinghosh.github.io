@@ -55,6 +55,7 @@ title: Homepage of Oindrila Ghosh
     <li><div class="button active" data-ref="#papers-JP">Journal Papers</div></li>
     <li><div class="button inactive" data-ref="#papers-Reports">Reports</div></li>
     <li><div class="button inactive" data-ref="#papers-Articles">Articles</div></li>
+    <li><div class="button inactive" data-ref="#papers-Art Exhibitions">ART EXHIBITION</div></li>
   </ul>
 
   <div class="tab-content">
@@ -174,8 +175,8 @@ title: Homepage of Oindrila Ghosh
     </div>
   {% endfor %}
 </div>    
-<!-- Art Exhibition -->
-<div class="tab-pane inactive" id="papers-Articles">
+<!-- Art Exhibitions -->
+<div class="tab-pane inactive" id="papers-ART EXHIBITION">
   {% assign Articles_papers = site.data.publications.papers | where: "Articles", "y" %}
   {% for paper in Articles_papers %}
     <div class="paper">
