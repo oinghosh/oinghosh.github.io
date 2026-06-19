@@ -63,7 +63,7 @@ papers:
 
   # ARTICLES
 
-    - title: "PFAS in our Food: From Farms and Fields to Streams and Shores"
+  - title: "PFAS in our Food: From Farms and Fields to Streams and Shores"
     authors: "Oindrila Ghosh (University of Pittsburgh); Jonathan Petali (Battelle); Erin L. Pulster (U.S. Geological Survey); and Christopher J. McCarthy (Jacobs)."
     paper: "https://www.setac.org/resource/pfas-in-our-food-from-farms-and-fields-to-streams-and-shores.html"
     venue: "SETAC Globe. 26 Feb 2026."
@@ -89,7 +89,7 @@ papers:
 
     # ART EXHIBITIONS
 
-    - title: "From Crisis to Collaboration "
+  - title: "From Crisis to Collaboration "
     authors: "Oindrila Ghosh (University of Pittsburgh)"
     paper: "https://sites.google.com/view/poster-exhibit/art-science-setac-2025"
     venue: "Novel Bodies, Ecoartspace, 2025"
