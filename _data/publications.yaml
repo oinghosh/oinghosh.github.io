@@ -9,8 +9,15 @@ papers:
     venue: "Environmental Toxicology and Chemistry, 2025;, vgae003"
     JP: y  
   
-  - title: "Equilibrium Passive Sampling for Short-term Measurements in Overlying Water"
-    authors: "<u>Oindrila Ghosh</u>, Upal Ghosh "
+  - title: "Feasibility of short-term and flow-weighted long-term measurements using equilibrium passive sampling."
+    authors: "<u>Oindrila Ghosh</u>, Louis Cheung, Nathalie Lombard, Upal Ghosh "
+    paper: "https://doi.org/10.1021/acsestwater.5c00686"
+    # slides: 
+    venue: "ACS ES&T Water 5.12 (2025): 7279-7289."
+    JP: y 
+
+  - title: "Comparison of Loading Methods of Performance Reference Compounds in Polyethylene Passive Samplers."
+    authors: "<u>Oindrila Ghosh</u>, Nathalie Lombard, Upal Ghosh "
     # paper: 
     # slides: 
     venue: "(Manuscript in review)"
@@ -23,12 +30,7 @@ papers:
     venue: "(Manuscript in review)"
     JP: y 
     
-  - title: "Standardized method for loading PCB performance reference compounds into polymeric samplers"
-    authors: "<u>Oindrila Ghosh</u>, Nathalie Lombard, Upal Ghosh "
-    # paper: 
-    # slides: 
-    venue: "(Manuscript in review)"
-    JP: y 
+
 
     
 
